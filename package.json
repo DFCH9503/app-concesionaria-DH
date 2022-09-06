@@ -1,0 +1,12 @@
+{
+  "name": "concesionaria-de-autos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "baseDeDatos.js",
+  "scripts": {
+    "start": "node concesionaria.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
